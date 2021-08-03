@@ -1,0 +1,3 @@
+# t-SNE Visualisation of CNN Features
+
+t-SNE visualisation of CNN features can help understand how the CNN understands the relationship between different classes which it is trained on. This repository contains minimal code to visualise t-SNE embeddings of the features obtained after average pooling in the ResNet-18 architecture. For visualisation the validation set of [Imagenette](https://github.com/fastai/imagenette) was used.
